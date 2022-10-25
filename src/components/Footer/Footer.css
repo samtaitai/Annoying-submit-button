@@ -3,7 +3,7 @@
 footer {
   width: 100vw;
   padding: 6.5vh 2vh 1vh 2vh;
-  position: absolute;
+  position: relative;
   bottom: 0;
   max-height: 25vh;
   min-height: 220px;
